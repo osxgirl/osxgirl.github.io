@@ -1,14 +1,12 @@
 ---
 layout: post
 title:      "all the dots connect & why i'm learning to #code //❤️ "
-date:       2017-12-07 01:43:07 +0000
+date:       2017-12-06 20:43:08 -0500
 permalink:  all_the_dots_connect_and_why_im_learning_to_code
 ---
 
 November 30, 2017 | Heather Marie
 
-![]https://www.instagram.com/p/BcVYFteg0ER/)
- 
 I have wanted to go back to school to learn programming, but until now, I have not found the best solution for my lifestyle. I am a new mom. I am a new mom who recently was let go from a good job and a mom that had to sell her home and move back in with her parents.  
 
  
