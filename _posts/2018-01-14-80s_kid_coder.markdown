@@ -1,0 +1,34 @@
+---
+layout: post
+title:      "80's Kid Coder"
+date:       2018-01-14 14:38:39 +0000
+permalink:  80s_kid_coder
+---
+
+
+No one is born knowing how to use or develop digital technologies. We learn how to use it by using it By asking ourselves curious questions and by being around its circuitry. Certainly by not being afraid of it. It is our responsibility to define this digital world.
+
+I like to call my generation the analog-to-digital converters. We are the ones who came before the millennials and after the baby boomers. We are here to convert the world from analog to digital. Us, 80s kids, know the sound a rotary phone makes when dialing and when it rings. That is because we know there is an actual bell inside being triggered. You can actually see and touch the components that make the phone ring… so it is easily understood. Televisions were made of heavy glass and tubing and had an antenna that received a signal from a local news transporting satellite. Apple Computers lined classrooms and so many of us got dysentery playing Oregon Trail.​​
+
+ 
+We also played Atari, Sega, Nintendo, and Playstation. We used Prodigy in the 1990s to access the internet and then AOL to begin our social interactivity. We cared for digital pets with Giga Pets. We took pictures with instant cameras and the Sony Mavica with floppy disk was my first digital camera. We introduced technology into our lives by first play, then communication. You have to be around it to understand it, so how? You play Mario! In doing so you learn about the screen, the cables and the game cartridge that are all used to make everything work. You’re around it, period. You learn by muscle memory. 
+
+We know what Apple gave us! Hello to your iPhone! You know it very well. You are around it always and you enjoy using it. So, where do we go from here? We code! We define the world around us with code. It is our responsibility to make a better world, digitally. If there is a stigma of people looking into their phones, how can we turn their heads up again?
+
+I’m a photographer/teacher type that loves fashion and design. What does coding have to do with that? EVERYTHING! My passions in life will be coded! For example, instead of paper receipts, we now have a digital option. Advertising is not just done on paper anymore. The YouTube APP is the new MTV. 
+
+In using software, we interact with a button, correct? To start your App you tap a button. Well, behind the scenes, the same thing is happening. To understand I had to think different. I had to think that the words on the screen were buttons, action items, not just text to make into a sentence. What’s a sentence to a computer? Nothing. How is it supposed to know what you want it to do or think? Programming. Yukihiro Matsumoto programmed the language Ruby and there is a glossary of terms that make it function. I like to think of those terms as buttons. Actions that tell the program to process something we define. 
+​​
+[IMG]http://i66.tinypic.com/ilxhle.png[/IMG] 
+​​
+
+Above is a screenshot of code, a dance module, in the Ruby Programming language. It's not a real dance in the sense you actually see people moving, it is a metaphor. The term "def" means you are defining a method. Once you define something, you can then program it to do something. It's like magic.
+
+So, what are you going to program?
+
+
+
+
+ty
+
+That’s all for now. Join me at https://learn.co //♥︎ thank you Flatiron School
