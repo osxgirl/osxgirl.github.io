@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Jake at Apple"
-date:       2018-03-08 14:57:50 +0000
+date:       2018-03-08 09:57:51 -0500
 permalink:  jake_at_apple
 ---
 
