@@ -1,10 +1,10 @@
 # Site settings
-title: coderTravels
+title: coding heather
 header-img: img/home-bg.png
 email: osxgirl@mac.com
 copyright_name: osxgirl
 description: > # this means to ignore newlines until "baseurl:"
-  The travels of a coding student.
+   Creative Professional learns to learn to code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: PetalSnap
 github_username:  osxgirl
