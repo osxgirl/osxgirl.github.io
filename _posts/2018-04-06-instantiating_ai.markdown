@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Instantiating AI"
+title:      "Instantiating AI 🧠"
 date:       2018-04-06 11:13:21 -0400
 permalink:  instantiating_ai
 ---
