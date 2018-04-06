@@ -10,8 +10,8 @@ permalink:  self
 <p>This returned result of Human through the self is #{self} Human line call is called by the self.name method defined in the Human class. The returned result of self in `Human class method 'name' is heather haas` is outside of the method run so the return is the instance method – heather haas.
 </p>
 
-```
 
+```
 class Human
 @@name = "heather haas"
 
@@ -25,8 +25,8 @@ end
 puts "Human class method 'name' is #{Human.name}"
 
 self is Human
-Human class method 'name' is heather haas```
-
+Human class method 'name' is heather haas
+``` 
 
 
 <p><a href="https://imgur.com/w0N6ihg"><img src="https://i.imgur.com/w0N6ihg.png" title="imgur.com" /></a></p>
