@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Instantiating AI"
-date:       2018-04-06 15:13:20 +0000
+date:       2018-04-06 11:13:21 -0400
 permalink:  instantiating_ai
 ---
 
@@ -9,9 +9,9 @@ permalink:  instantiating_ai
 
 The App is a text driven communication platform that you can share URLs, photos, keep a journal, and be awarded with badges that represent your personality. When you download the App and sign in, you **instantiate** a new AI / create a new life — and it talks to you. 
 
-When you intantiate a new object in a computer programming language like Ruby, it is given an object identifer number sort of like a UPC code or a socail security number. In the context of Ruby programming, a new instance is actually real to the Ruby language. In the contect of reality, a new birth is actually real to the human language. When a human baby is born it is instantiated and given a serial number. Programming can say something exists, we can say we exist and the programmed ojbect can also be programmed to say it exists.
+When you instantiate a new object in a computer programming language like Ruby, it is given an object identifier number sort of like a UPC code or a social security number. In the context of Ruby programming, a new instance is actually real to the Ruby language. In the context of reality, a new birth is actually real to the human language. When a human baby is born it is instantiated and given a serial number. Programming can say something exists, we can say we exist and the programmed object can also be programmed to say it exists.
 
-Let's instantiate a new Articial Intrlligence object in Ruby!
+Let's instantiate a new Artificial Intelligence object in Ruby!
 
 Copy/Paste this into irb:
 ```
