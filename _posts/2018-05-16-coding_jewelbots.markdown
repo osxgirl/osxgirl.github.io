@@ -14,7 +14,7 @@ a [jewelbot](http://jewelbots.com) is a friendship bracelet that is programmed b
 
 🍌🍓🍇🥝🍑🍉
 
-Here is some sample code from Jewelbots:
+Here is sample code from Jewelbots:
 
 void setup( ) { 
 // put your setup code here, to run once:
