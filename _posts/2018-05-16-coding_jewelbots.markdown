@@ -10,9 +10,7 @@ a [jewelbot](http://jewelbots.com) is a friendship bracelet that is programmed b
 
 
 <p><a href="https://imgur.com/blCeZB3"><img src="https://i.imgur.com/blCeZB3m.jpg" title="Jewbot Charm" /></a>
-<a href="https://imgur.com/oOGN2Hw"><img src="https://i.imgur.com/oOGN2Hwm.jpg" title="Heather & Mackenzie" /></a>
-<a href="https://imgur.com/wmfC22W"><img src="https://i.imgur.com/wmfC22Wm.jpg" title="Jewbot & Macintosh" /></a>
-<a href="https://imgur.com/ae2jKlH"><img src="https://i.imgur.com/ae2jKlHm.jpg" title="Mackenzie's Jewbot" /></a></p>
+<a href="https://imgur.com/oOGN2Hw"><img src="https://i.imgur.com/oOGN2Hwm.jpg" title="Heather & Mackenzie" /></a></p>
 
 🍌🍓🍇🥝🍑🍉
 
