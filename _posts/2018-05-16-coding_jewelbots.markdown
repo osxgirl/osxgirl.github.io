@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "coding jewelbots!! //[❤️] 🍌🍓🍇🥝🍑🍉"
-date:       2018-05-16 20:04:06 +0000
+date:       2018-05-16 16:04:07 -0400
 permalink:  coding_jewelbots
 ---
 
@@ -16,84 +16,24 @@ a [jewelbot](http://jewelbots.com) is a friendship bracelet that is programmed b
 
 🍌🍓🍇🥝🍑🍉
 
-Here is code I found from one of the Ambassadors of @jewelbots - Ellie Galloway
-It’s called Fruit Lights :
+Here is some sample code from Jewelbots:
 
-`
-
-LED led;
-Timer timer;
-Animation animation;
-
-void setup() {
+void setup( ) { 
 // put your setup code here, to run once:
-
-}
-
-void loop() {
-// put your main code here, to run repeatedly:
-
-}
-
-void button_press (void) {
-// first we have a banana
-led.setLight(0, 255, 255, 0);
-led.setLight(1, 255, 255, 0);
-led.setLight(2, 255, 255, 0);
-timer.pause(3000);
-led.turn_off_all();
-timer.pause(100);
-// and now a strawberry
-led.turn_on_single(NW, RED);
-led.turn_on_single(SW, RED);
-led.turn_on_single(NE, RED);
-led.setLight(3, 0, 204, 0);
-timer.pause(3000);
-led.turn_off_all();
-timer.pause(100);
-// how about a blueberry
-led.turn_on_single(NW, BLUE);
-led.turn_on_single(SE, BLUE);
-led.turn_on_single(NE, MAGENTA);
-led.turn_on_single(SW, MAGENTA);
-timer.pause(3000);
-led.turn_off_all();
-timer.pause(100);
-// and now a fig that has been cut in half
-led.setLight(1, 25, 0, 51);
-led.setLight(0, 25, 0, 51);
-led.turn_on_single(SE, RED);
-led.turn_on_single(NE, RED);
-timer.pause(3000);
-led.turn_off_all();
-timer.pause(100);
-// a mango
-led.setLight(0, 255, 140, 0);
-led.setLight(1, 255, 140, 0);
-led.setLight(2, 255, 140, 0);
-led.setLight(3, 255, 140, 0);
-timer.pause(3000);
-led.turn_off_all();
-timer.pause(100);
-// a watermelon cracking open
-led.turn_on_all(GREEN);
-timer.pause(1000);
-led.turn_on_single(SE, RED);
-led.turn_on_single(SW, RED);
-timer.pause(500);
-led.turn_on_single(NW, RED);
-led.setLight(2, 0, 0, 0);
-timer.pause(3000);
-led.turn_off_all();
-
 } 
 
-`
+void loop( ) {
+// put your main code here, to run repeatedly: 
+   LED led; 
+   led.turn_on_single(SW, GREEN); 
+}
 
-This code changes the colors of the LEDs, flashes the LED and vibrates the bracelet at different strengths and duration. 
+This code changes the colors of one of the 4 LEDs to green. You can use programmed animations, program a buzzer and program a magic button!
 
-It’s fascinating to wear programming made by someone you don’t know. It’s a new art, a new form of expression.
- 
+
+
+It’s a new art, a new form of expression & way to connect.
+
  //[❤️] 
 
 
