@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Sinatra Project -  yellow 💛"
-date:       2018-09-03 17:35:37 +0000
+title:      "Sinatra Project : yellow 💛"
+date:       2018-09-03 13:35:38 -0400
 permalink:  sinatra_project_-_yellow
 ---
 
